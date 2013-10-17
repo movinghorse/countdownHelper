@@ -28,7 +28,7 @@ kissy gallery 倒计时助手
 
 例子：
 
-	countdownHelper.stop();//开始
+	countdownHelper.stop();//停止
 
 * getTime()
 
